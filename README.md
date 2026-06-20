@@ -1,0 +1,23 @@
+CSV
+   │
+   ▼
+PySpark
+   │
+Cleaning
+   │
+   ▼
+Pandas
+   │
+   ▼
+PyTorch
+   │
+Training
+   │
+Prediction
+   │
+   ▼
+GUI
+   │
+Charts
+   │
+Excel Export
